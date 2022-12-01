@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "sinatra", "2.0.7"
+gem "sinatra", "2.2.3"
 gem "sinatra-contrib"
 gem "pry"
 
